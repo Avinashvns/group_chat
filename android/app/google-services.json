@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "931226248623",
+    "project_id": "group-chat-48d33",
+    "storage_bucket": "group-chat-48d33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931226248623:android:7b7603a529ee968f6cbb5a",
+        "android_client_info": {
+          "package_name": "com.example.group_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_0KQWHAbw6RFWoTS4ZNN87bntpAy_gno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
